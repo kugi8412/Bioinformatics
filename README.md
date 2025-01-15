@@ -1,2 +1,2 @@
 # Bioinformatics
-Selected bioinformatics projects
+Selected bioinformatics projects.
